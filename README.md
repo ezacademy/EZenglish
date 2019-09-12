@@ -1,2 +1,0 @@
-# responsive
-responsive web test
